@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gemini Live Multimodal",
+  "description": "A real-time multimodal AI experience replicating Project Astra, featuring live video and audio streaming with Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
